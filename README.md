@@ -1,5 +1,6 @@
-# 💫 About Me:
-👋 Hey there!<br><br>I'm Souri Rishik, and welcome to my GitHub!<br>I'm passionate about building things that make life easier, smarter, and a little more fun. From robotics and machine learning to writing clean and efficient code, you'll find a mix of projects that reflect my curiosity and creativity.<br><br>Feel free to explore, fork, and connect —<br>I'm always learning, always building. 🚀<br>
+# 💫 Hi, I'm Souri Rishik:
+Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
+Feel free to explore, fork, and connect. Always learning, always building 🚀
 
 
 ## 🌐 Socials:
