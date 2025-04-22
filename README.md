@@ -1,8 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Souri+Rishik!;" />
 </h1>
-### Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
-### Feel free to explore, fork, and connect. Always learning, always building 🚀
+Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
+Feel free to explore, fork, and connect. Always learning, always building 🚀
+<h3>Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
+Feel free to explore, fork, and connect. Always learning, always building 🚀</h3>
 
 
 ## 🌐 Socials:
