@@ -37,7 +37,7 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SouriRishik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000%22%20media=%22(prefers-color-scheme:%20dark))<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SouriRishik&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouriRishik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
