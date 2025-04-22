@@ -38,7 +38,7 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000%22%20media=%22(prefers-color-scheme:%20dark))<br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SouriRishik&theme=radical" alt="GitHub Streak" /></a>
+![](https://nirzak-streak-stats.vercel.app/?user=SouriRishik&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouriRishik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
