@@ -5,7 +5,6 @@
 <h3>Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
 Feel free to explore, fork, and connect. Always learning, always building 🚀</h3>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souri.rishik) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souri-rishik-02a188284) 
