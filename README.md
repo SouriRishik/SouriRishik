@@ -111,7 +111,7 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SouriRishik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://souri-github-trophy.vercel.app/?username=SouriRishik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
