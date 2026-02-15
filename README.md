@@ -45,19 +45,19 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000%22%20media=%22(prefers-color-scheme:%20dark))
+![](https://souri-github-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000%22%20media=%22(prefers-color-scheme:%20dark))
 ![](https://nirzak-streak-stats.vercel.app/?user=SouriRishik&theme=radical&hide_border=false)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouriRishik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time" media="(prefers-color-scheme: dark)" />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SouriRishik&theme=graywhite&layout=compact&border_color=EDEDED&text_color=515151&icon_color=6D6D6D"
+        srcset="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=graywhite&layout=compact&border_color=EDEDED&text_color=515151&icon_color=6D6D6D"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time" />
+    <img src="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time" />
 </picture>
 
 ## 🏆 GitHub Trophies
