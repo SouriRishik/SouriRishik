@@ -113,7 +113,6 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 ## 🏆 GitHub Trophies
 ![](https://souri-github-trophy.vercel.app/?username=SouriRishik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!;+Feel+Free+to+Reach+Out!;" />
