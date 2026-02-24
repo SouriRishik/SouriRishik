@@ -79,16 +79,16 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
         <tr>
             <td>
                 <picture>
-                    <source srcset="https://souri-github-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000&cache_seconds=21600" media="(prefers-color-scheme: dark)" />
-                    <source srcset="https://souri-github-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=graywhite&border_color=EDEDED&text_color=515151&icon_color=6D6D6D&cache_seconds=21600" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img src="https://souri-github-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000&cache_seconds=21600" />
+                    <source srcset="https://souri-github-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000&cache_seconds=1800&v=1" media="(prefers-color-scheme: dark)" />
+                    <source srcset="https://souri-github-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=graywhite&border_color=EDEDED&text_color=515151&icon_color=6D6D6D&cache_seconds=1800&v=1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                    <img src="https://souri-github-stats.vercel.app/api?username=SouriRishik&show_icons=true&include_all_commits=true&theme=radical&border_color=000000&cache_seconds=1800&v=1" />
                 </picture>
             </td>
             <td>
                 <picture>
-                    <source srcset="https://streak-stats.demolab.com/?user=SouriRishik&theme=radical&border=000&cache_seconds=21600" media="(prefers-color-scheme: dark)" />
-                    <source srcset="https://streak-stats.demolab.com/?user=SouriRishik&theme=icegray&border=EDEDED&cache_seconds=21600" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img src="https://streak-stats.demolab.com/?user=SouriRishik&theme=radical&border=000&cache_seconds=21600" />
+                    <source srcset="https://streak-stats.demolab.com/?user=SouriRishik&theme=radical&border=000&cache_seconds=1800&v=1" media="(prefers-color-scheme: dark)" />
+                    <source srcset="https://streak-stats.demolab.com/?user=SouriRishik&theme=icegray&border=EDEDED&cache_seconds=1800&v=1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                    <img src="https://streak-stats.demolab.com/?user=SouriRishik&theme=radical&border=000&cache_seconds=1800&v=1" />
                 </picture>
             </td>
         </tr>
@@ -100,9 +100,9 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
         <tr>
             <td colspan="2" align="center">
                 <picture>
-                    <source srcset="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time&cache_seconds=21600" media="(prefers-color-scheme: dark)" />
-                    <source srcset="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=graywhite&layout=compact&border_color=EDEDED&text_color=515151&icon_color=6D6D6D&cache_seconds=21600" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img src="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time&cache_seconds=21600" />
+                    <source srcset="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time&cache_seconds=1800&v=1" media="(prefers-color-scheme: dark)" />
+                    <source srcset="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=graywhite&layout=compact&border_color=EDEDED&text_color=515151&icon_color=6D6D6D&cache_seconds=1800&v=1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                    <img src="https://souri-github-stats.vercel.app/api/wakatime?username=SouriRishik&theme=radical&layout=compact&border_color=000000&range=all_time&cache_seconds=1800&v=1" />
                 </picture>
             </td>
         </tr>
@@ -111,9 +111,9 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 
 
 ## 🏆 GitHub Trophies
-![](https://souri-profile-trophy.vercel.app/?username=SouriRishik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://souri-profile-trophy.vercel.app/?username=SouriRishik&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800&v=1)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!;+Feel+Free+to+Reach+Out!;" />
 </h1>
