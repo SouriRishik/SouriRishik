@@ -5,7 +5,7 @@
 <h3>Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
 Feel free to explore, fork, and connect. Always learning, always building 🚀</h3>
 
-<!--## 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souri.rishik) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souri-rishik-02a188284) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29990050) 
@@ -44,7 +44,7 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
--->
+<!--
 
 ## 🌐 Socials:
 
@@ -86,6 +86,8 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 <img src="https://cdn.simpleicons.org/nvidia/76B900" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40"/>
+
+-->
 
 <!--
 
