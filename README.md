@@ -5,7 +5,7 @@
 <h3>Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
 Feel free to explore, fork, and connect. Always learning, always building 🚀</h3>
 
-## 🌐 Socials:
+<!--## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souri.rishik) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souri-rishik-02a188284) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29990050) 
@@ -43,6 +43,49 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
 ![CUDA](https://img.shields.io/badge/CUDA-FF1E00?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+-->
+
+## 🌐 Socials:
+
+<a href="https://instagram.com/souri.rishik"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/souri-rishik-02a188284"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40" height="40"/></a>
+<a href="https://stackoverflow.com/users/29990050"><img src="https://cdn.simpleicons.org/stackoverflow/FE7A16" width="40" height="40"/></a>
+<a href="https://codepen.io/Souri-Rishik"><img src="https://cdn.simpleicons.org/codepen/000000" width="40" height="40"/></a>
+<a href="https://www.kaggle.com/souririshik"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40"/></a>
+<a href="mailto:souri.rishik27@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40"/></a>
+
+## 💻 Tech Stack:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/matplotlib/ffffff" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/nvidia/76B900" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40"/>
 
 <!--
 
