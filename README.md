@@ -131,9 +131,9 @@ Feel free to explore, fork, and connect. Always learning, always building 🚀</
             </td>
             <td>
                 <picture>
-                    <source srcset="https://https://souri-streak-stats.vercel.app/?user=SouriRishik&theme=radical&border=000" media="(prefers-color-scheme: dark)" />
-                    <source srcset="https://https://souri-streak-stats.vercel.app/?user=SouriRishik&theme=icegray&border=EDEDED" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img src="https://https://souri-streak-stats.vercel.app/?user=SouriRishik&theme=radical&border=000" />
+                    <source srcset="https://souri-streak-stats.vercel.app/?user=SouriRishik&theme=radical&border=000" media="(prefers-color-scheme: dark)" />
+                    <source srcset="https://souri-streak-stats.vercel.app/?user=SouriRishik&theme=icegray&border=EDEDED" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                    <img src="https://souri-streak-stats.vercel.app/?user=SouriRishik&theme=radical&border=000" />
                 </picture>
             </td>
         </tr>
