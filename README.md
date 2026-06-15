@@ -2,10 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Souri+Rishik!;" />
 </h1>
 
-<h3>Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code — you'll find a bit of everything here.
+<h3>Welcome to my GitHub! I'm passionate about building things that make life easier, smarter, or just more fun. Whether it's robotics, machine learning, or clean and efficient code, you'll find a bit of everything here.
 Feel free to explore, fork, and connect. Always learning, always building 🚀</h3>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souri.rishik) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souri-rishik-02a188284) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29990050) 
